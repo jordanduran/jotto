@@ -1,4 +1,4 @@
-/*
+/**
  * Functional react component for congratulatory message
  * @function
  * @param {object} props - React props.
